@@ -1,4 +1,4 @@
-UT homepage:
+UT homepage: https://www.ut.ee/et
 UT study information system:
 UT library:
 UT institute of computer science:
