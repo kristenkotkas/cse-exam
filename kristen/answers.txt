@@ -1,0 +1,20 @@
+1. What branches exist in this repository?
+$ git branch
+44_add-ut-url
+dev
+master
+
+2. How many commits are in this repository (in total; in all branches)?
+$ git shortlog
+29 commits
+
+3. When was the line #10 in the file index.html last changed and who is the author of that commit?
+looked up the commit hash from github and then used command:
+$ git show 74dc2d36ac558929972d3e0ee400c206fe8cdad7
+
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+Date:   Mon May 7 19:17:18 2018 +0300
+
+4. What is the commit message of the commit with the hash 865cbc8?
+$ git show 865cbc8
+"Added travis config file"
